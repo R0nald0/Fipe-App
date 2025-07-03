@@ -3,9 +3,12 @@
 Projeto consome a api do - [FIPE API](https://deividfortuna.github.io/fipe/?ref=public_apis&utm_medium=website) ,carrega marcas e modelos do carro e exibe as informáções do veículo como valor,combustivel,códiggo fipe ano do modelo,mês de referecia.Este Aplicativo foi desenvolvido utilizando arquitetura MVVM,consumo da api com o pacote [DIO](https://pub.dev/packages/dio).
 
 ### Imagens do App
+
 ---
- <img src="https://github.com/user-attachments/assets/141b0c24-1f3d-4a2a-98cd-eec2df9c9b8b" height="400em">
-<img src="https://github.com/user-attachments/assets/bd1d480c-da21-4f13-a518-1d4fde62ed29" height="400em">
+<img src="https://github.com/user-attachments/assets/b2c13616-a28d-4636-b6c4-1e834c122c98" height="400em">
+<img src="https://github.com/user-attachments/assets/986737c4-bf27-4a43-a39d-1802c9194ac6" height="400em">
+
+
 
 
 
